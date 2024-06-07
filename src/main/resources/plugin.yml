@@ -1,4 +1,5 @@
-name: Ferns
-version: 1.0
-author: Beezle
 main: me.beezle.ferns.Ferns
+version: 1.0
+name: Ferns
+authors: [Beezle]
+description: Enables the conversion of Tall Grass (ID 31:0) into Ferns (ID 31:2) upon placement.
