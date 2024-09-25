@@ -1,5 +1,11 @@
-main: me.beezle.ferns.Ferns
-version: 1.0.0
+main: io.github.aleksandarharalanov.ferns.Ferns
+version: 1.1.0
 name: Ferns
-authors: [Beezle]
-description: Enables the conversion of Tall Grass (ID 31:0) into Ferns (ID 31:2) upon placement.
+author: Beezle
+website: github.com/AleksandarHaralanov/Ferns
+description: Converts tall grass placement to a fern.
+
+commands:
+  ferns:
+    description: See Ferns information.
+    default: op
